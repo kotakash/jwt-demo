@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/MS &amp; Cloud 12 courses/API Sec Demos/bcprov-jdk15on-1.50.jar"/>
+	<classpathentry kind="lib" path="D:/MS &amp; Cloud 12 courses/API Sec Demos/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/MS &amp; Cloud 12 courses/API Sec Demos/json-smart-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/MS &amp; Cloud 12 courses/API Sec Demos/nimbus-jose-jwt-2.26.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
